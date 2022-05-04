@@ -16,3 +16,4 @@ git commit -m 'deploy'
 # if you are deploying to https://<USERNAME>.github.io
 git push -f git@github.com:frontend/frontendgithub.io.git main
  
+cd -
